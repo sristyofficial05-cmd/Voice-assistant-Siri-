@@ -29,7 +29,6 @@ It helps with daily tasks like studying, searching information, taking notes, an
 - 🌍 Translation Support
 
 ---
-
 ## 🛠️ Tech Stack
 
 - Python 3.13
